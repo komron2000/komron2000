@@ -15,8 +15,19 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
+[![codewars](https://www.codewars.com/users/komron2000/badges/large)](https://www.codewars.com/users/username)
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=komron2000&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Kamron's GitHub stats](https://github-readme-stats.vercel.app/api?username=komron2000)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=komron2000&repo=food__dist-master-branch)](https://github.com/komron2000/food__dist-master-branch)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=komron2000&repo=mogo-)](https://github.com/komron2000/mogo-)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=komron2000&repo=Random)](https://github.com/komron2000/Random)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=komron2000&repo=karusel)](https://github.com/komron2000/karusel)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=komron2000&repo=Calculator)](https://github.com/komron2000/Calculator)
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=komron2000)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <!-- **komron2000/komron2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
