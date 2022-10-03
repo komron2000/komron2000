@@ -1,7 +1,7 @@
 <h1 align="center">Камронбек,20лет
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=студенты+изучающие+информатику)](https://git.io/typing-svg)
 <h1 align="center">МОЕ НАВЫКИ</h1>
 <h3>БАКЕНД</h3>
 
