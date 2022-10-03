@@ -1,6 +1,6 @@
 
 # Hi there, I'm [Kamron] 👋
-### Computer science student, IT news writer from Russia 🇷🇺
+
 <!--
 **komron2000/komron2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
