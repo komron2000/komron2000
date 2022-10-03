@@ -5,10 +5,7 @@
 
 - 🔭 Front-end и Backend разработчик.
 - 🌱 Огромное желание развиваться!
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 Лучшая связь:<a>https://t.me/bbkt20</a>
+- 📫 Лучшая связь:<a href="https://t.me/bbkt20">@bbkt20</a>
 - ⚡ свободное время занимаюсь боксом.
 
 <h3>БАКЕНД</h3>
