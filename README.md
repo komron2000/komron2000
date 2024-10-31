@@ -39,5 +39,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=komron2000&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Kamron's GitHub stats](https://github-readme-stats.vercel.app/api?username=komron2000)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=komron2000)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
