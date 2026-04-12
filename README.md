@@ -1,14 +1,14 @@
-<h1 align="center">Камронбек,24лет
+<h1 align="center">Камронбек,25лет
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 <h1 align="center">МОЕ НАВЫКИ</h1>
 
-- 🔭 Front-end и Backend разработчик.
+- 🔭 Information Security разработчик.
 - 🌱 Огромное желание развиваться!
-- 📫 Лучшая связь:<a href="https://t.me/kamappulya">@kamappulya</a>
+- 📫 Лучшая связь:<a href="https://t.me/korrvon">@kamappulya</a>
 - ⚡ свободное время занимаюсь боксом.
 
-<h3>БЭКЕНД</h3>
+<h3>Information Security</h3>
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
