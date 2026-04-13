@@ -1,23 +1,29 @@
-# Kamronbek | Junior Cybersecurity Specialist
+# Kamronbek | Junior SOC Analyst
 
-I am learning and building projects in:
-- Web Security
-- Python for Security Automation
-- Linux & Networking
-- SIEM / Log Analysis
-- Secure Development
+Aspiring SOC Analyst focused on:
+- Log analysis
+- Threat detection
+- Linux & Windows basics
+- Python automation for security tasks
+- Networking fundamentals
+- SIEM and detection engineering basics
 
-## Featured Security Projects
-- Web Vulnerability Lab
-- Log Analyzer for Suspicious Activity
-- Port Scanner in Python
-- Password Audit Tool
-- CTF Write-ups
+## Featured Projects
+- auth-log-analyzer
+- brute-force-detector
+- sigma-detection-lab
+- phishing-email-analyzer
+- soc-homelab-notes
+
+## Skills
+Python • Linux • Bash • TCP/IP • Windows Event Logs • Regex • Git • SQL basics
 
 ## Current Focus
-- OWASP Top 10
-- SOC Analyst skills
-- Python automation for security tasks
+- SOC operations
+- Incident triage
+- Detection logic
+- MITRE ATT&CK mapping
 
 ## Contact
 - Telegram: @kamappulya
+- Email: your_email_here
