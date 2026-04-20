@@ -1,55 +1,352 @@
 # Kamronbek | Junior SOC Analyst
 
-Aspiring Junior SOC Analyst focused on log analysis, threat detection, incident triage, and security automation.
+Aspiring **Junior SOC Analyst** focused on Blue Team operations, log analysis, threat detection, incident triage, and security automation.
 
-## About Me
-I am building practical skills in Security Operations Center (SOC) tasks, including:
-- analyzing Linux and Windows logs
-- detecting suspicious activity
-- investigating alerts
-- working with basic detection logic
-- automating repetitive security tasks with Python
-
-I am currently developing hands-on projects to strengthen my skills in blue team operations and defensive security.
-
-## Skills
-- Python
-- Linux
-- Bash
-- Networking fundamentals
-- Windows Event Logs
-- Log Analysis
-- Regex
-- Git/GitHub
-- SQL basics
-- SIEM fundamentals
-- MITRE ATT&CK basics
-
-## Featured Projects
-- **auth-log-analyzer** — Python tool for analyzing Linux authentication logs
-- **bruteforce-detector** — detection of repeated failed login attempts
-- **phishing-email-analyzer** — basic phishing investigation helper
-- **sigma-rules-lab** — practice Sigma rules for common threats
-- **soc-notes** — SOC investigation notes, event IDs, and triage checklists
-
-## Current Focus
-- SOC operations
-- Alert investigation
-- Incident triage
-- Threat detection fundamentals
-- Blue Team practice
-- Security automation with Python
-
-## Goals
-My goal is to start my career as a SOC Analyst and continue growing in:
-- Threat Detection
-- Incident Response
-- Detection Engineering
-- Blue Team Operations
-
-## Contact
-- Telegram: @kamappulya
-- GitHub: [komron2000](https://github.com/komron2000)
+I also study **pentesting fundamentals** and web security to better understand attacker behavior and improve my detection and investigation skills.
 
 ---
-**Open to junior SOC / Blue Team opportunities**
+
+## About Me
+
+I am building practical skills for Security Operations Center (SOC) work, including:
+
+- analyzing Linux and Windows logs
+- investigating suspicious activity
+- detecting brute-force attempts
+- working with basic alert triage
+- understanding attacker techniques
+- automating repetitive security tasks with Python
+- practicing hands-on cybersecurity labs on TryHackMe
+
+My main career goal is to start as a **Junior SOC Analyst** and continue growing in Blue Team, Threat Detection, and Incident Response.
+
+---
+
+## Security Focus
+
+### Blue Team / SOC
+- Log Analysis
+- Alert Triage
+- Incident Investigation
+- Threat Detection
+- Security Monitoring
+- SIEM Fundamentals
+- Windows Event Logs
+- Linux Authentication Logs
+- MITRE ATT&CK Basics
+
+### Pentest Basics
+- OWASP Top 10
+- Web Security Basics
+- Reconnaissance Basics
+- Vulnerability Assessment Basics
+- Burp Suite Basics
+- Nmap Basics
+- Understanding attacker behavior
+
+### Technical Skills
+- Python
+- Bash
+- Linux
+- Networking Fundamentals
+- Regex
+- Git / GitHub
+- SQL Basics
+- HTML / CSS / JavaScript basics
+
+---
+
+## Practical Training
+
+I use TryHackMe for hands-on cybersecurity labs focused on SOC and Blue Team skills.
+
+Areas I practice:
+
+- SOC Analyst workflows
+- Log analysis
+- Alert triage
+- Phishing investigation
+- Windows and Linux fundamentals
+- Threat detection basics
+- Web security and pentesting basics
+
+**TryHackMe Profile:** [kamapulya](https://tryhackme.com/p/kamapulya)
+
+---
+
+## Featured Projects
+
+These are the main projects I am building to improve my SOC Analyst skills.
+
+### 1. auth-log-analyzer
+
+Python tool for analyzing Linux authentication logs.
+
+**Goal:**  
+Detect suspicious login activity from Linux `auth.log`.
+
+**Features:**
+- Parse authentication logs
+- Detect failed login attempts
+- Extract source IP addresses
+- Count repeated failures
+- Highlight suspicious IPs
+- Generate a simple summary report
+
+**SOC Use Case:**  
+Useful for investigating authentication-related alerts.
+
+**MITRE ATT&CK:**
+- T1110 — Brute Force
+
+---
+
+### 2. bruteforce-detector
+
+Python script for detecting brute-force activity.
+
+**Goal:**  
+Identify repeated failed login attempts from the same IP address.
+
+**Features:**
+- Analyze failed login patterns
+- Count failed attempts per IP
+- Apply threshold logic
+- Mark IPs as suspicious
+- Print alert-style output
+
+**SOC Use Case:**  
+Helps practice basic detection logic for brute-force attacks.
+
+**MITRE ATT&CK:**
+- T1110 — Brute Force
+
+---
+
+### 3. phishing-email-analyzer
+
+Basic phishing investigation helper.
+
+**Goal:**  
+Analyze suspicious email indicators.
+
+**Features:**
+- Extract sender information
+- Identify suspicious links
+- Extract domains from URLs
+- Highlight possible phishing indicators
+- Produce a simple investigation summary
+
+**SOC Use Case:**  
+Useful for practicing phishing alert triage.
+
+**MITRE ATT&CK:**
+- T1566 — Phishing
+
+---
+
+### 4. sigma-rules-lab
+
+Collection of practice Sigma detection rules.
+
+**Goal:**  
+Learn how detection rules are written and documented.
+
+**Example Rules:**
+- Multiple failed login attempts
+- Suspicious PowerShell usage
+- Account lockout activity
+- Unusual process execution
+- Possible brute-force behavior
+
+**SOC Use Case:**  
+Helps understand how security events become alerts.
+
+---
+
+### 5. soc-notes
+
+Personal SOC learning notes and investigation checklists.
+
+**Topics:**
+- Windows Event IDs
+- Linux log locations
+- Basic incident triage
+- Phishing investigation checklist
+- IOC types
+- MITRE ATT&CK notes
+- Useful Linux commands
+- SIEM investigation basics
+
+**SOC Use Case:**  
+Shows structured learning and practical investigation methodology.
+
+---
+
+### 6. owasp-top-10-labs
+
+Basic web security and pentesting notes.
+
+**Goal:**  
+Understand common web vulnerabilities from an attacker perspective.
+
+**Topics:**
+- SQL Injection
+- Cross-Site Scripting
+- IDOR
+- Authentication flaws
+- Security misconfiguration
+- Broken access control
+
+**Why it matters for SOC:**  
+Understanding attack techniques helps improve alert investigation and detection logic.
+
+---
+
+## Suggested GitHub Pinned Repositories
+
+Recommended repositories to pin on my GitHub profile:
+
+1. `auth-log-analyzer`
+2. `bruteforce-detector`
+3. `phishing-email-analyzer`
+4. `sigma-rules-lab`
+5. `soc-notes`
+6. `owasp-top-10-labs`
+
+---
+
+## Current Learning Roadmap
+
+### SOC / Blue Team
+- Log analysis
+- Alert triage
+- Incident response basics
+- SIEM fundamentals
+- Detection logic
+- Threat hunting basics
+
+### Windows Security
+- Windows Event Logs
+- Authentication events
+- Account lockout events
+- Sysmon basics
+- PowerShell activity
+
+### Linux Security
+- Authentication logs
+- SSH activity
+- Failed login detection
+- Useful command-line tools
+- Basic hardening concepts
+
+### Pentest Basics
+- OWASP Top 10
+- Web application testing
+- Reconnaissance
+- Vulnerability assessment
+- Burp Suite basics
+- Nmap basics
+
+---
+
+## Example SOC Investigation Mindset
+
+When investigating an alert, I try to answer:
+
+1. What happened?
+2. When did it happen?
+3. Which user, host, or IP was involved?
+4. Is the activity normal or suspicious?
+5. Are there repeated patterns?
+6. Is there any known MITRE ATT&CK technique?
+7. What evidence supports the conclusion?
+8. Should the alert be escalated?
+
+---
+
+## Tools I Am Learning
+
+- Linux
+- Python
+- Bash
+- Git / GitHub
+- Nmap
+- Burp Suite
+- Wireshark basics
+- SIEM basics
+- TryHackMe labs
+- MITRE ATT&CK
+- Sigma rules
+
+---
+
+## GitHub Improvement Plan
+
+### Step 1 — Clean Profile
+- Hide old weak repositories
+- Remove random test projects from pinned section
+- Keep only useful and professional projects visible
+
+### Step 2 — Improve Profile README
+- Present myself as Junior SOC Analyst
+- Add TryHackMe profile
+- Add SOC and Blue Team skills
+- Add pentest basics as supporting knowledge
+
+### Step 3 — Build SOC Projects
+- Create `auth-log-analyzer`
+- Create `bruteforce-detector`
+- Create `phishing-email-analyzer`
+- Create `sigma-rules-lab`
+- Create `soc-notes`
+
+### Step 4 — Add Documentation
+Each project should include:
+
+- project description
+- features
+- technologies used
+- how to run
+- example output
+- MITRE ATT&CK mapping
+- educational disclaimer
+
+### Step 5 — Add Topics
+Recommended GitHub topics:
+
+- `soc`
+- `cybersecurity`
+- `blue-team`
+- `python`
+- `log-analysis`
+- `sigma`
+- `threat-detection`
+- `incident-response`
+- `mitre-attack`
+- `tryhackme`
+- `owasp-top-10`
+
+---
+
+## Sample Project README Template
+
+```md
+# Project Name
+
+## Overview
+Short description of what the project does and why it is useful for SOC practice.
+
+## Features
+- Feature 1
+- Feature 2
+- Feature 3
+
+## Technologies
+- Python
+- Regex
+- Linux logs
+
+## How to Run
+bash
+python main.py sample.log
